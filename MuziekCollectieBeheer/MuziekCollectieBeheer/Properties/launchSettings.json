@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MuziekCollectieBeheer (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MuziekCollectieBeheer (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
